@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/vladititov/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,13 +15,13 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" height="300"/>
+  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" height="200"/>
 </div>
 
 ---
 
 ### :woman_technologist: About Me :
-I am a Software Engeneer from Republic of Belarus.
+I am a software engineer from the Republic of Belarus.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -32,7 +32,7 @@ I am a Software Engeneer from Republic of Belarus.
 
 ---
 <div align="center">
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" height="300"/>
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" height="200"/>
 </div>
 
 ---
