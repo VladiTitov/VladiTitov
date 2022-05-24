@@ -30,7 +30,7 @@ I am a software engineer from the Republic of Belarus.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
   <a href="https://ru.wikipedia.org/wiki/.NET">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Dotnetcore" **alt="Dotnetcore" width="50" height="50"/>&nbsp;</a>
   <a href="https://ru.wikipedia.org/wiki/.NET_Framework">
@@ -70,6 +70,10 @@ I am a software engineer from the Republic of Belarus.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vladititov&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladititov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vladititov&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladititov&layout=compact&theme=monokai-metallian"/>
+</p>
