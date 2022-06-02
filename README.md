@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=vladititov&style=flat-square&color=red" alt=""/>
   <h1>
     Hello! 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
     I’m Vladislav Titov And I'm a .NET developer
   </h1>
 </div>
